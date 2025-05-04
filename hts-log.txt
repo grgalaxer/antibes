@@ -1,0 +1,63 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 04 May 2025 22:04:25 at http://localhost/antibes +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/antibes -O1 "C:\MyWebSites\antibes" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:07:10	Warning: 	Moved Permanently for localhost/antibes/home/
+22:07:10	Warning: 	File has moved from localhost/antibes/home/ to http://localhost/antibes/
+22:07:33	Error: 	"Method Not Allowed" (405) at link localhost/antibes/xmlrpc.php (from localhost/antibes/)
+22:10:25	Error: 	"Not Found" (404) at link localhost/antibes/wp-content/uploads/2025/05/ls-project-2-slide-1.jpg (from localhost/antibes/)
+22:10:25	Warning: 	Retry after error -4 (Incorrect length (1058815 Bytes, 8418171 expected)) at link localhost/antibes/wp-content/uploads/2025/05/wmremove-transformed-3.png (from localhost/antibes/)
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/photo.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/p12hot3o.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/fpee-1.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/phot3o.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/phot3o-1.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/photo2.avif
+22:10:25	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/ph22ot3o.avif
+22:10:25	Error: 	"Not Found" (404) at link localhost/antibes/privacy-policy/ (from localhost/antibes/)
+22:10:26	Error: 	"Bad Request" (400) at link localhost/antibes/wp-admin/admin-ajax.php (from localhost/antibes/)
+22:10:59	Warning: 	Moved Permanently for localhost/antibes/?p=173
+22:10:59	Warning: 	File has moved from localhost/antibes/?p=173 to http://localhost/antibes/housing/
+22:11:15	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/awfwf.avif
+22:11:55	Warning: 	Moved Permanently for localhost/antibes/?p=171
+22:11:55	Warning: 	File has moved from localhost/antibes/?p=171 to http://localhost/antibes/baggage/
+22:11:55	Warning: 	Moved Permanently for localhost/antibes/?p=175
+22:11:55	Warning: 	File has moved from localhost/antibes/?p=175 to http://localhost/antibes/services/
+22:12:06	Warning: 	Moved Permanently for localhost/antibes/?p=179
+22:12:06	Warning: 	File has moved from localhost/antibes/?p=179 to http://localhost/antibes/contact/
+22:13:26	Warning: 	Retry after error -4 (Incorrect length (3742072 Bytes, 8418171 expected)) at link localhost/antibes/wp-content/uploads/2025/05/wmremove-transformed-3.png (from localhost/antibes/)
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=713
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=713 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-9/
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/grreg.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/ewfww.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/rvgre.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/wdw.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/reg.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/few.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/ewfdewf.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/wef.avif
+22:13:56	Warning: 	File not parsed, looks like binary: localhost/antibes/wp-content/uploads/2025/05/cewfe.avif
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=711
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=711 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-8/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=709
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=709 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-7/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=707
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=707 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-6/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=705
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=705 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-5/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=703
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=703 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-4/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=701
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=701 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-3/
+22:13:56	Warning: 	Moved Permanently for localhost/antibes/?p=699
+22:13:56	Warning: 	File has moved from localhost/antibes/?p=699 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-1-2/
+22:13:57	Warning: 	Moved Permanently for localhost/antibes/?p=668
+22:13:57	Warning: 	File has moved from localhost/antibes/?p=668 to http://localhost/antibes/2025/05/04/le-duplex-100m2-au-coeur-dantibes-avec-parking-1/
+22:17:42	Error: 	"Not Found" (404) at link localhost/antibes/wp-content/themes/enfold/framework/php/legacy_avia_shortcodes/tinymce/img/icon.png (from localhost/antibes/wp-content/themes/enfold/framework/css/avia_admin.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 51 seconds : 691 links scanned, 669 files written (24878941 bytes overall) [25581926 bytes received at 30784 bytes/sec], 7.4 requests per connection
+(5 errors, 47 warnings, 0 messages)
